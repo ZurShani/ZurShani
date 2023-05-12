@@ -9,8 +9,6 @@
 
 - 💡 AI addict 
 
-- 📫  reach me here: **zurshani12@gmail.com**
-
 - ⚡ Fun fact **arachnophobia 🕷️**
 
 <h3 align="left">Connect with me:</h3>
