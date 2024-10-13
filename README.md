@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zurshani&label=Profile%20views&color=0e75b6&style=flat" alt="zurshani" /> </p>
 
-- 🌱 I’m currently learning **C++,JavaScript,CSS,HTML**
+- 🌱 I’m currently learning ** C#,Unity **
 
 - 📫  reach me here: **zurshani12@gmail.com**
 
