@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Zur Shani</h1>
 <h3 align="center">A passionate Software Engineer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zurshani&label=Profile%20views&color=0e75b6&style=flat" alt="zurshani" /> </p>
-
 - 🌱 I’m currently learning ** C#,Unity **
 
 - 📫  reach me here: **zurshani12@gmail.com**
